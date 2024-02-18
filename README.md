@@ -5,6 +5,6 @@
 - 📫 How to reach me dawson.r.myers@gmail.com
 - 💻 Personal Website coming soon...
 - Exmples:
-    https://dawson-myers.github.io/TinDog-Bootstrap/
-    https://dawson-myers.github.io/Simon-Game/
-    https://dawson-myers.github.io/Drum-Kit/
+    - https://dawson-myers.github.io/TinDog-Bootstrap/
+    - https://dawson-myers.github.io/Simon-Game/
+    - https://dawson-myers.github.io/Drum-Kit/
